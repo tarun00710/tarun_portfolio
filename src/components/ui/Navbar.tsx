@@ -58,7 +58,7 @@ export default function Navbar() {
               </motion.a>
             ))}
             <motion.a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1QrEb2jJjMf5lxVW9V6XPT7G2a1_S_06D/view?usp=drive_link"
               target="_blank"
               className="px-4 py-2 rounded-full border border-purple-500 text-purple-400 hover:bg-purple-500/10 transition-all"
               whileHover={{ scale: 1.05 }}
@@ -120,7 +120,7 @@ export default function Navbar() {
                   </a>
                 ))}
                 <a
-                  href="/resume.pdf"
+                  href="https://drive.google.com/file/d/1QrEb2jJjMf5lxVW9V6XPT7G2a1_S_06D/view?usp=drive_link"
                   target="_blank"
                   className="px-4 py-2 rounded-full border border-purple-500 text-purple-400 text-center hover:bg-purple-500/10 transition-all"
                 >
